@@ -1,5 +1,5 @@
 # Schulwegsicherung im RIAS-Kiezblock
-Karte des geplanten RIAS-Kiezblocks in Berlin und die Maßnahmen zur Schulwegsicherung
+Karte der geplanten Maßnahmen zur Schulwegsicherung im RIAS-Kiezblock
 
 https://riaskiezblock.github.io/Kiezblock/
 
