@@ -2,4 +2,4 @@
 Karte des geplanten RIAS-Kiezblocks in Berlin
 
 
-https://raw.githubusercontent.com/RIASkiezblock/Kiezblock/main/RIAS-Kiezblock%20Karte.png
+<img src="https://raw.githubusercontent.com/RIASkiezblock/Kiezblock/main/RIAS-Kiezblock%20Karte.png" width=1400>
