@@ -12,5 +12,12 @@ https://umap.openstreetmap.fr/de/map/riaskiez_705676
 ## Statische Karte zur Lage des RIAS-Kiezes in Berlin
 https://riaskiez.github.io/kiez/
 
+## Flyer
 
-Social Media Kontakte: Twitter [@riaskiezblock](https://twitter.com/riaskiezblock)
+[Flyer (2 Seiten)](https://github.com/riaskiez/kiez/raw/main/RIAS-Kiezblock%20Flyer%20Version%202.0.1%20-%20komplett.pdf)
+
+
+## Social Media
+
+* Twitter [@riaskiezblock](https://twitter.com/riaskiezblock)
+* https://kiezblocks.de/rias
