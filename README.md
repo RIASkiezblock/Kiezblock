@@ -1,5 +1,10 @@
 # Schulwegsicherung im RIAS-Kiez
 
+## Interaktive Karte mit Anmerkungen
+
+https://umap.openstreetmap.fr/de/map/riaskiez_705676
+
+
 ## Statische Karte der geplanten Maßnahmen zur Schulwegsicherung im RIAS-Kiez
 
 https://riaskiez.github.io/kiez
@@ -7,9 +12,6 @@ https://riaskiez.github.io/kiez
 
 ## Statische Karte auf Berlinkarte
 https://riaskiez.github.io/kiez/
-
-## Interaktive Karte mit Anmerkungen
-https://umap.openstreetmap.fr/de/map/riaskiez_705676
 
 
 Social Media Kontakte: Twitter [@riaskiezblock](https://twitter.com/riaskiezblock)
