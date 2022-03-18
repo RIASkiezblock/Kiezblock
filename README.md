@@ -16,7 +16,7 @@
 
 ## Unser Flyer
 
-* [Flyer (2 Seiten)](https://github.com/riaskiez/kiez/raw/main/RIAS-Kiezblock%20Flyer%20Version%202.0.1%20-%20komplett.pdf)
+* [Flyer (PDF; 2 Seiten)](https://github.com/riaskiez/kiez/raw/main/RIAS-Kiezblock%20Flyer%20Version%202.0.1%20-%20komplett.pdf)
 
 
 ## Social Media Kontakte und Changing Cities Informationsseite
