@@ -19,5 +19,6 @@
 
 ## Social Media Kontakte und Changing Cities Informationsseite
 
-* Twitter [@riaskiezblock](https://twitter.com/riaskiezblock)
+* <s>Twitter [@riaskiezblock](https://twitter.com/riaskiezblock)</s> (discontinued)
 * https://kiezblocks.de/rias
+* mailto:rias@kiezbklocks.de
