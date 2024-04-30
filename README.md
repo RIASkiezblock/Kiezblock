@@ -1,5 +1,10 @@
 # Schulwegsicherung im RIAS-Kiez
 
+## Mobilitätskonzept - Befragung bis 30.04.2024
+
+https://mein.berlin.de/projekte/mobilitatskonzept-prinzeregentenstrae-und-babelsbe
+
+
 ## [Interaktive Karte mit Anmerkungen](https://umap.openstreetmap.fr/de/map/riaskiez_705676)  
   <a href=https://umap.openstreetmap.fr/de/map/riaskiez_705676><img src="https://raw.githubusercontent.com/riaskiez/kiez/main//RIAS-Übersicht - Version 2.0.1 mit Legende.png" width=150></a>
 
